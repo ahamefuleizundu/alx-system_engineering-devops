@@ -1,2 +1,2 @@
 #!/bin/bash
-$ chgrp new_group hello_filie
+chmod 754 hello
